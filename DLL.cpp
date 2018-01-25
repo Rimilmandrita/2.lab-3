@@ -125,6 +125,8 @@ using namespace std;
     
   };	
 int main() {
+	cout<<"\nDOUBLY LINKED LIST";
+	cout<<endl;
  linkedList l; // Declaring object of class linkedList
  l.insert(1);
  l.insert(2);
